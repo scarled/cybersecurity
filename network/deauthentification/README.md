@@ -23,4 +23,3 @@ Example:
 ```sh
 sh bash.sh wlan1 8 28:CF:23:8E:4F:70 B6:3F:45:79:73:9A
 ```
-```

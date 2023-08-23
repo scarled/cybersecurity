@@ -13,10 +13,10 @@ Capture all network traffic via WI-FI using network interface in monitor mode an
 
 ## How to use it
 ```sh
-sh bash.sh <interface_name> <channel> <router_mac> 
+sh bash.sh <interface_name> router_mac(optional)
 ```
 
 Example:
 ```sh
-sh bash.sh wlan1 8 28:CF:23:8E:4F:70 
+sh bash.sh wlan1  28:CF:23:8E:4F:70 
 ```

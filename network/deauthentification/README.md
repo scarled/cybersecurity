@@ -1,5 +1,4 @@
 # Deauthentificator
-## _The Last Markdown Editor, Ever_
 ## Scope
 Deauthenticate a target MAC addres to connect to the router
 ## Perequisite

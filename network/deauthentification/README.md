@@ -16,7 +16,7 @@ ins/googleanalytics/README.md][PlGa] |
 
 ## How to use it
 ```sh
-sh bash.sh <interface_name> <channel> <router_mac> <target_mac>```
+sh bash.sh <interface_name> <channel> <router_mac> <target_mac>
 ```
 
 Example:

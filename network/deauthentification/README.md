@@ -9,10 +9,7 @@ Deauthenticate a target MAC addres to connect to the router
 
 
 ## How it works
-Create a MAC spoffing in order to send multiple request to a router MAC address. The router will block the targert MAC address to connect to the networl.
-Install the dependencies and devDependencies and start the server.
-
-ins/googleanalytics/README.md][PlGa] |
+Create a MAC spoffing in order to send multiple request to a router MAC address. The router will block the targert MAC address to connect to the network.
 
 ## How to use it
 ```sh

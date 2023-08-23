@@ -1,7 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-18:CF:24:6E:0F:78, 2023-08-23 19:13:23, 2023-08-23 19:13:23,  8, 130, WPA2 WPA, CCMP, PSK, -56,        2,       22,   0.  0.  0.  0,   9, DIGI-F2Nz, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-F8:4D:89:79:73:9A, 2023-08-23 19:13:23, 2023-08-23 19:13:23, -27,       23, 18:CF:24:6E:0F:78,
-
